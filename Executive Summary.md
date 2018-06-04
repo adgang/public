@@ -20,8 +20,9 @@ We have developed apps based on latest technologies like Progressive Web Apps(PW
 3. Databases - Oracle, MySQL, Redis, Mongo, Cassandra, SQLite
 
 ### Implementation Experience
-1. Hybrid(Mobile and Web) app for a Pharma sales startup, a PWA PaaS platform and multiple e-commerce app implementations on the platform.
-2. Apache Zeppelin based data manager/visualizer with rich visualizations similar to Tableau.
+1. Hybrid(Mobile and Web) app for a Pharma sales startup
+2. A PWA PaaS platform and multiple e-commerce app implementations on the platform. Examples sites developed on the platform: [Pizzahut Turkey](https://phturkey.capillary.in/product/evlere-servis-f%C4%B1rsatlar%C4%B1/delivery-campaigns) and [Pizzahut India](https://phindia.capillary.in/)
+3. Apache Zeppelin based data manager/visualizer with rich visualizations similar to Tableau.
 
 ## Big Data
 We have experience building hadoop clusters, developing high throughput data pipelines, building data ingestion and cleanup tools, data warehouse and data visualization integrations.
